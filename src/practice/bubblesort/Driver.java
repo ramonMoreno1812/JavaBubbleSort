@@ -1,3 +1,6 @@
+// This program uses an array of ints and sort them with the bubble sort method.
+// I create an object of my driver class to print my array before and after sorting.
+
 package practice.bubblesort;
 
 public class Driver {
@@ -14,8 +17,6 @@ public class Driver {
 		myDriver.printMyArray(myArray);
 
 	}
-	
-	
 	
 	// public method to print any primitive integer array 
 	public void printMyArray(int array[]) {
